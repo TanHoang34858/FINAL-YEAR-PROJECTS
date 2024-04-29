@@ -1,0 +1,251 @@
+<resources>
+    <!--  All  -->
+    <string name="app_name">JUICE STORE</string>
+    <string name="endpoint_server">http://10.0.2.2/server_langthangcoffee</string>
+    <string name="all_app_name_uppercase"><b>FRUIT JUICE STORE</b></string>
+
+    <!--    Layout-->
+
+    <string name="all_tv_hint_nhapsdt">Enter your phone number</string>
+    <string name="all_tv_hint_tenkhachhang">Customer name</string>
+    <string name="all_tv_hint_hokhachhang">Customer last name</string>
+    <string name="all_tv_hint_matkhau">Password from 6 characters</string>
+    <string name="all_tv_hint_diachigiaohang">Delivery address</string>
+    <string name="all_tv_btn_themmoi">Add new</string>
+    <string name="all_tv_btn_capnhat">Update</string>
+    <string name="all_tv_btn_xoa">Delete</string>
+    <string name="all_tv_title_size">Size</string>
+    <string name="all_tv_title_chonsize">Choose 1 type of size</string>
+    <string name="all_tv_title_topping">Topping</string>
+    <string name="all_tv_title_chontopping">Choose toppings</string>
+    <string name="all_tv_title_ghichu">Requirements</string>
+    <string name="all_tv_title_motaghichu">Other requirements</string>
+    <string name="all_tv_hint_ghichu">Enter notes</string>
+
+    <string name="all_tv_title_phuongthucgiaohang">Delivery method</string>
+    <string name="all_tv_title_phuongthucgiaohang_tannoi">Delivery</string>
+    <string name="all_tv_title_thongtingiaohang">Shipment Details</string>
+    <string name="all_tv_title_sanphamdachon">Selected product</string>
+    <string name="all_tv_title_tongcong">Total</string>
+    <string name="all_tv_title_thanhtien">into money</string>
+    <string name="all_tv_title_phigiaohang">Delivery charges</string>
+    <string name="all_tv_title_magiamgia">Discount code</string>
+    <string name="all_tv_title_magiamgia_khongco">No discount code</string>
+    <string name="all_tv_title_sotienthanhtoan">Payment amount</string>
+    <string name="all_tv_title_phuongthucthanhtoan">Payment methods</string>
+    <string name="all_tv_title_phuongthucthanhtoan_tienmat">Cash</string>
+    <string name="all_tv_title_thaydoi">Change</string>
+    <string name="all_tv_title_apdung">Apply</string>
+    <string name="all_tv_hint_magiamgia">Enter discount code</string>
+
+    <string name="all_tv_hint_nguoinhan">Receiver</string>
+
+    <string name="all_tv_title_saochep">Copy</string>
+
+    <string name="all_tv_title_choxacnhan">Wait for confirmation</string>
+    <string name="all_tv_title_danggiao">Delivering</string>
+    <string name="all_tv_title_hoantat">Completed</string>
+    <string name="all_tv_title_dahuy">Cancelled</string>
+    <string name="all_tv_title_madonhang">Code orders</string>
+    <string name="all_tv_title_chitietdathang">Order Details</string>
+    <string name="all_tv_btn_huydonhang">Cancel order</string>
+    <string name="all_tv_btn_xacnhan">Confirm</string>
+    <string name="all_tv_btn_hoantat">Completed</string>
+
+    <string name="all_tv_title_taikhoan">Account</string>
+    <string name="all_tv_title_donhang">Order</string>
+    <string name="all_tv_btn_uploadanh">Upload photos</string>
+    <!-- Fragment Sign In    -->
+    <string name="rl_ln_fragment_dash_board_title">Welcome to</string>
+    <string name="tv_plus_84">+84</string>
+    <string name="tv_vertical_line">|</string>
+    <string name="signin_tv_btn_sign_in">Log in</string>
+    <string name="signin_tv_or"><b>OR</b></string>
+    <string name="signin_tv_sign_in_with_google">Sign in with Google</string>
+    <string name="signin_tv_new_register">Create a new account</string>
+
+
+    <!-- Fragment Sign Up    -->
+    <string name="signup_tv_title_signup">Customer information</string>
+    <string name="signup_tv_title_thong_tin_ca_nhan">Personal information</string>
+    <string name="signup_tv_title_chinhsach">Accept the policy</string>
+    <string name="signup_tv_title_chuongtrinh">Accept Membership Program</string>
+    <string name="signup_tv_btn_tieptheo">Next</string>
+
+    <!-- Fragment DanhSachYeuThich    -->
+    <string name="danhsachyeuthich_tv_title">Favorite List</string>
+
+    <!-- Fragment DatHang    -->
+    <string name="dathang_tv_title">Order</string>
+    <string name="dathang_tv_hint_timkiem">Search by product name</string>
+    <string name="dathang_tv_title_caphe">Coffee</string>
+    <string name="dathang_tv_title_trasua">Milk tea</string>
+    <string name="dathang_tv_title_soda">Fruit juice</string>
+    <string name="dathang_tv_title_banhngot">Cake</string>
+
+    <!-- Fragment DatHangChiTiet    -->
+    <string name="dathangchitiet_tv_title">Product Details</string>
+
+    <!-- Fragment XacNhanDatHang    -->
+    <string name="xacnhandathang_tv_title">Order confirmation</string>
+    <string name="xacnhandathang_tv_btn_dathang">Order</string>
+    <string name="xacnhandathang_tv_btn_themmon">More drinks</string>
+
+
+    <!-- Fragment ThongTinGiaoHang    -->
+    <string name="thongtingiaohang_tv_title">Shipment Details</string>
+    <string name="thongtingiaohang_tv_title_diachimacdinh">Set as default address</string>
+    <string name="thongtingiaohang_tv_hint_nguoinhan">Receiver</string>
+
+    <!-- Fragment MaGiamGia    -->
+    <string name="magiamgia_tv_title">Discount code</string>
+
+    <!-- Fragment TrangVoucher    -->
+    <string name="voucher_tv_title">Your Offer</string>
+    <string name="voucher_tv_title_voucher">Your voucher</string>
+
+    <!-- Fragment TrangChiTietVoucher    -->
+    <string name="chitietvoucher_tv_title">CVoucher Details</string>
+    <string name="chitietvoucher_tv_title_mota">Voucher description</string>
+
+
+    <!-- Fragment TrangLichSuDonHang    -->
+    <string name="lichsudonhang_tv_title">Order History</string>
+    <!-- Fragment TrangDanhSachDonHang    -->
+    <string name="danhsachdonhang_tv_title">Order List</string>
+
+    <!-- Fragment TrangCaNhan    -->
+    <string name="trangcanhan_tv_title">Personal page</string>
+    <string name="trangcanhan_tv_title_lichsudonhang">Order history</string>
+    <string name="trangcanhan_tv_title_danhsachuudai">List of offers</string>
+    <string name="trangcanhan_tv_title_danhsachyeuthich">List of favorite products</string>
+    <string name="trangcanhan_tv_title_thongtincanhan">Personal information</string>
+    <string name="trangcanhan_tv_title_thaydoimatkhau">Change the password</string>
+    <string name="trangcanhan_tv_title_dangxuat">Log out</string>
+    <string name="trangcanhan_tv_title_lienhe">Contact</string>
+    <string name="trangcanhan_tv_title_tienich">Utilities</string>
+    <string name="trangcanhan_tv_title_doimatkhau">Change the password</string>
+    <string name="trangcanhan_tv_hint_matkhauhientai">Current password</string>
+    <string name="trangcanhan_tv_hint_matkhaumoi">A new password</string>
+    <string name="trangcanhan_tv_title_hotro">Support</string>
+
+
+    <!-- Fragment TrangQuanLy    -->
+    <string name="trangquanly_tv_title">Management Page</string>
+    <string name="trangquanly_tv_title_danhsachdonhang">List of orders</string>
+    <string name="trangquanly_tv_title_danhsachtaikhoan">List of accounts</string>
+    <string name="trangquanly_tv_title_danhsachsanpham">List of products</string>
+    <string name="trangquanly_tv_title_sanpham">Product</string>
+    <string name="trangquanly_tv_title_voucher">Voucher</string>
+    <string name="trangquanly_tv_title_danhsachvoucher">List of vouchers</string>
+    <string name="trangquanly_tv_title_danhsachloaivoucher">List of voucher types</string>
+
+    <string name="trangquanly_tv_title_thongke">Statistical</string>
+    <string name="trangquanly_tv_title_doanhthu">Sales</string>
+
+    <!-- Fragment DoanhThu  -->
+    <string name="doanhthu_tv_title">Sales</string>
+    <string name="doanhthu_tv_title_tongtienhoadon">Revenue from delivered orders</string>
+    <!-- Fragment LienHe  -->
+    <string name="lienhe_tv_title">Contact</string>
+    <string name="lienhe_tv_title_sdt">Phone number</string>
+    <string name="lienhe_tv_title_email">Email</string>
+    <string name="lienhe_tv_title_phienbanungdung">Application version</string>
+
+    <!-- Fragment TrangQuanLyLoaiVoucher    -->
+    <string name="trangquanlyloaivoucher_tv_title">List of Voucher Types</string>
+    <string name="trangquanlyloaivoucher_tv_hint_timkiem">Search by voucher type name</string>
+    <string name="trangquanlyloaivoucher_tv_title_themsanpham">Add Voucher Type</string>
+    <string name="trangquanlyloaivoucher_tv_hint_tenloaivoucher">Voucher type name</string>
+    <string name="trangquanlyloaivoucher_tv_hint_motaloaivoucher">Description of voucher type</string>
+    <string name="trangquanlyloaivoucher_tv_hint_tongtien">Reduced to money (%)</string>
+    <string name="trangquanlyloaivoucher_tv_hint_phiship">Reduced delivery fees (%)</string>
+    <string name="trangquanlyloaivoucher_tv_hint_soluongtoithieu">Minimum product quantity</string>
+
+    <!-- Fragment TrangQuanLyVoucher    -->
+    <string name="trangquanlyvoucher_tv_title">Voucher List</string>
+
+    <string name="trangquanlyvoucher_tv_hint_timkiem">Search by voucher code</string>
+    <string name="trangquanlyvoucher_tv_title_themvoucher">Add Voucher</string>
+    <string name="trangquanlyvoucher_tv_hint_mavoucher">Voucher code</string>
+    <string name="trangquanlyvoucher_tv_title_randommavoucher">Random voucher code</string>
+    <string name="trangquanlyvoucher_tv_title_alltaikhoan">All users</string>
+
+
+    <!-- Fragment TrangQuanLyTaiKhoan    -->
+    <string name="trangquanlytaikhoan_tv_title_themtaikhoan">Create Account</string>
+    <string name="trangquanlytaikhoan_tv_title_chitiettaikhoan">Account Details</string>
+    <string name="trangquanlytaikhoan_tv_title_danhsachtaikhoan">Account List</string>
+    <string name="trangquanlytaikhoan_tv_hint_timkiem">Search by phone number</string>
+    <!-- Fragment TrangQuanLySanPham    -->
+    <string name="trangquanlysanpham_tv_title_danhsachsanpham">List of products</string>
+    <string name="trangquanlysanpham_tv_title_themsanpham">More Products</string>
+    <string name="trangquanlysanpham_tv_title_danhmuc">Category</string>
+    <string name="trangquanlysanpham_tv_title_themsize">Add size</string>
+    <string name="trangquanlysanpham_tv_title_themtopping">Add toppings</string>
+    <string name="trangquanlysanpham_tv_hint_tensanpham">Product name</string>
+    <string name="trangquanlysanpham_tv_hint_motasanpham">Product Description</string>
+    <!-- First page of Dash Board-->
+    <string name="ln_page_1_dash_board_title">Welcome to</string>
+    <string name="ln_page_1_dash_board_btn">Experience</string>
+    <string name="ln_page_1_dash_board_slogan">Not Just Fruit Juice \n We Had A Great Experience</string>
+    <string name="ln_page_1_dash_board_space">The space of store</string>
+    <string name="ln_page_1_dash_board_desc_sapce">The space of Fruit Juice Store is designed with warm and comfortable yellow tones. Furniture is arranged intelligently and delicately to bring comfort.</string>
+    <string name="vp2_page_1_dash_board_space">vp2</string>
+
+    <!-- Second page of Dash Board   -->
+    <string name="rl_page_2_dash_board_btn">Find out now ➞</string>
+    <string name="rl_page_2_dash_board_title">Best seller\n #1\n Milk tea</string>
+
+    <!-- Third page of Dash Board    -->
+    <string name="ln_page_3_dash_board_title">WHAT`S\nON\nTHE MENU ?</string>
+    <string name="caffe">COFFEE</string>
+    <string name="MilkTea">MILK TEA</string>
+    <string name="Soda">FRUIT JUICE</string>
+    <string name="SweetCake">CAKE</string>
+
+    <!-- Fourth page of Dash Board    -->
+    <string name="ln_page_4_dash_board_title">WITH OFFERS</string>
+    <string name="ln_ln_page_4_dash_board_title_1">OFFER #1</string>
+    <string name="ln_ln_page_4_dash_board_title_2">OFFER #2</string>
+    <string name="ln_ln_page_4_dash_board_desc_1">The combination of Apple Juice and Red Apple Cake brings a sweet, delicious and refreshing taste that will quench thirst on hot days. Red apple cake will create a gentle sweetness. The combination brings a wonderful enjoyment experience. Come to our JUICE STORE to enjoy this Offer today!\n</string>
+    <string name="ln_ln_page_4_dash_board_desc_2">Cappuccino combined with savory croissants creates a delicious combination of sweet and savory flavors. You can enjoy a crispy salty croissant with a delicious and cool cup of Cappuccino to create a perfect food enjoyment experience.\n</string>
+
+    <!-- Fifth page of Dash Board    -->
+    <string name="rl_page_5_dash_board_title">WHY NOT CAKE ?</string>
+
+
+    <!-- Sixth page of Dash Board    -->
+    <string name="ln_page_6_dash_board_title">WHY WE ARE THE IDEAL PLACE FOR YOU</string>
+    <string name="ln_ln_page_6_dash_board_title_1"><b><u>ABOUT FRUIT JUICE</u></b></string>
+    <string name="ln_ln_page_6_dash_board_title_2"><b><u>ABOUT THE SPACE OF THE STORE</u></b></string>
+    <string name="ln_ln_page_6_dash_board_title_3"><b><u>ABOUT DELIVERY</u></b></string>
+    <string name="ln_ln_page_6_dash_board_desc_1">All fruit juices at our shop are pressed from fruits of clear origin and carefully selected. To bring customers healthy and refreshing drinks on hot summer days.\n</string>
+    <string name="ln_ln_page_6_dash_board_desc_2">Our store has a cozy space and luxurious design, creating a relaxing and inspiring environment for customers. You will have the opportunity to enjoy great fruit juices in a comfortable and stimulating space. Please visit our restaurant to enjoy the most beautiful and comfortable space.\n</string>
+    <string name="ln_ln_page_6_dash_board_desc_3">Our delivery system is thoroughly trained. Helps deliver drinks to customers as quickly as possible and an indispensable important thing is that orders are kept intact. But if you have free time, you should come drink directly at the JUICE STORE, to have a high-class experience and enthusiastic advice from the staff.\n</string>
+
+    <!-- All For Item -->
+    <string name="all_choose_size">Size</string>
+    <string name="all_small_size">Small</string>
+        <string name="all_middle_size">Medium</string>
+    <string name="all_big_size">Large</string>
+    <string name="all_topping">Topping</string>
+    <string name="all_choose_size_compulsory">Choose 1 type of size</string>
+    <string name="all_choose_topping">Choose toppings</string>
+
+    <string name="item">item</string>
+    <string name="todo">TODO</string>
+    <string name="all_learn_about_item">Find out now</string>
+
+    <!-- Order -->
+    <string name="tv_order">Order</string>
+    <string name="edt_product_name_search">Search for product name</string>
+    <string name="tv_detail_item">Product Details</string>
+    <string name="cf1">Fruit juice is good for health</string>
+    <string name="tv_other_requirements">Requirements</string>
+    <string name="tv_other_requirements_desc">Other specific requirements</string>
+    <string name="edt_note">Add notes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
